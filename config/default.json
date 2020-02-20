@@ -1,0 +1,3 @@
+{
+  "mongoURL": "mongodb+srv://chinna:<password>@adp-server-j0op9.mongodb.net/test?retryWrites=true&w=majority"
+}
