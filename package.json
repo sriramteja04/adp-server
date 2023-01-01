@@ -15,6 +15,6 @@
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
-    "config": "^3.2.5"
+    "config": "^3.3.8"
   }
 }
